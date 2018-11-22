@@ -4,8 +4,8 @@
   "Version": {
     "MajorVersion": 1,
     "MinorVersion": 0,
-    "PatchVersion": 0,
-    "Build": ""
+    "PatchVersion": 2,
+    "Build": "unofficial.1-doi3kimngoc"
   },
   "Description": "adds more weapons to SDV",
   "UniqueID": "Joco80.MoreWeapons",
